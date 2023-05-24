@@ -99,7 +99,6 @@
     "fast-glob": "^3.2.7",
     "fs-jetpack": "^4.3.0",
     "husky": "^7.0.4",
-    "ibm_db": "^2.8.1",
     "js-combinatorics": "^0.6.1",
     "lcov-result-merger": "^3.1.0",
     "lint-staged": "^12.1.4",
